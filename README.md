@@ -1,2 +1,2 @@
 # UCMerced_LandUse_RCAN_results
-由于电脑配置有限，所以只选取了UCMerced_LandUs数据集上每个类比的前10张。
+
